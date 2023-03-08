@@ -6,7 +6,12 @@
   justify-content:space-around;
 }
 /* 2. exercice-2 */
-
+.exercice-2 .container{
+  display:flex;
+  align-items: center;
+  flex-direction: column-reverse;
+  justify-content: center
+}
 /* 3. exercice-3 */
 
 /* 4. exercice-4 */
