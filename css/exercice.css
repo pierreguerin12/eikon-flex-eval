@@ -136,6 +136,10 @@
 /* 9. exercice-9 */
 
 /* 10. exercice-10 */
+.exercice-9 .container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: baseline;
 }
 
 /* 10. exercice-10 */
