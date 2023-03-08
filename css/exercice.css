@@ -115,18 +115,22 @@
 
 .exercice-8 .element-yellow{
   order: 3;
+  flex-grow: 3;
 }
 
 .exercice-8 .element-red{
   order: 1;
+  flex-grow: 1;
 }
 
 .exercice-8 .element-blue{
   order: 2;
+  flex-grow: 2;
 }
 
 .exercice-8 .element-pink{
   order: 4;
+  flex-grow:1;
 }
 
 /* 9. exercice-9 */
