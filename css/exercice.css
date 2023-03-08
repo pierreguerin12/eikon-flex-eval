@@ -79,6 +79,23 @@
 }
 /* 7. exercice-7 */
 
+.exercice-6 .element-pink{
+  flex-grow: 1;
+}
+
+.exercice-6 .element-yellow{
+  flex-grow: 1;
+}
+
+.exercice-6 .element-grey{
+  flex-grow: 1;
+}
+
+.exercice-6 .element-green{
+  flex-grow: 1;
+}
+
+/* 7. exercice-7 */
 .exercice-7 .container {
   display: flex;
   flex-direction: column-reverse;
